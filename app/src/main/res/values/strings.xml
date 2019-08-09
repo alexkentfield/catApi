@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cat nApp</string>
+    <string name="like_cat">Like</string>
+    <string name="cat_image_description">catImage</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="cat_sections">Cat Sections</string>
+    <string name="cat_drawer_image">Cat drawer image</string>
+    <string name="all_cats">All Cats</string>
+    <string name="favorite_cats">Favorite Cats</string>
+</resources>

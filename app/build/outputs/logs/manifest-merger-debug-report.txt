@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/a72dc8420832a90f7943bf3c89157142/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/ab6e4518c82a8761fa10c0c84a5887bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/9a07a779243632ed535c1ee533b683ad/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4a6df11b2877648cf620db02c73b42f9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b6833c41482e4ef5fcd3ef4f8f31bca7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4af7e9da06910dacad882ddfd6ac2e44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c605d78f443661202936b2dc81192f75/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/49bcbe25e5178a06cd4ba9f84394e363/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/6ceedf724260b805e041412b0c629f9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/6eb0d3ea67ad840b77a4ba220e143f3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/688affdd20af72e3e17faf3e21700b75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3a7c416c7595e82a97dc3784551ecb7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/bc0c271578ae076d9adf1a8117ad52d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3272a77194888b341e143d0a786c562e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/255049a0d71cd59a4fd64655007db69a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/30e755123e812a15835bd1083fc067df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/856cef3d1cd5cad3b1405872eb51e988/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/9e4fdaf900f64181a93d2dcb514de595/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/73f78230e5f224ea763b665bc9b550e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3f2b73d4d538f66903b64ea55ac41b75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/48a71d9deb345633826685ac20892847/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/0ad0a4ffd42646480505957cf1dbf466/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/11d48aee646e0f26a550a7abd4959d89/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/10eebaa4a3c09b6e59d02bc1e75f4af1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/e7b4ca3a07c85291f845580c40342413/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/30c60e823f241bc7f9975dc8c465a287/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/e4ed0558db1e397f1d318e799a68a16f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/75c40cf7261faba722a92c395395a63f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/abab4f81e5de3da20436e767ab34d7a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3ce592402223bdcf1793647868b4412c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/899e15b80d751caab326fa258c579135/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/622a51a5cf4160d07fc5b15504e24054/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/66e3d23b59808d7807b505b54458886e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/8504516ea3ec761172c9a9fc3062ca39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/44eee4ebea2b16b0098f273ed201f67e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c36f9e43f8abc565da2ae6ca9dd7ed54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/0334429cfe8e3e099de6e27368bc8079/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/a72dc8420832a90f7943bf3c89157142/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/a72dc8420832a90f7943bf3c89157142/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4a6df11b2877648cf620db02c73b42f9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4a6df11b2877648cf620db02c73b42f9/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c605d78f443661202936b2dc81192f75/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c605d78f443661202936b2dc81192f75/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/11d48aee646e0f26a550a7abd4959d89/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/11d48aee646e0f26a550a7abd4959d89/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/10eebaa4a3c09b6e59d02bc1e75f4af1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/10eebaa4a3c09b6e59d02bc1e75f4af1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/11d48aee646e0f26a550a7abd4959d89/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:14:13-44
+	android:usesCleartextTraffic
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:10:13-48
+activity#com.example.catapi.MainActivity
+ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/a72dc8420832a90f7943bf3c89157142/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/a72dc8420832a90f7943bf3c89157142/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/ab6e4518c82a8761fa10c0c84a5887bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/ab6e4518c82a8761fa10c0c84a5887bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/9a07a779243632ed535c1ee533b683ad/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/9a07a779243632ed535c1ee533b683ad/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4a6df11b2877648cf620db02c73b42f9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4a6df11b2877648cf620db02c73b42f9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b6833c41482e4ef5fcd3ef4f8f31bca7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b6833c41482e4ef5fcd3ef4f8f31bca7/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4af7e9da06910dacad882ddfd6ac2e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/4af7e9da06910dacad882ddfd6ac2e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c605d78f443661202936b2dc81192f75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c605d78f443661202936b2dc81192f75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/49bcbe25e5178a06cd4ba9f84394e363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/49bcbe25e5178a06cd4ba9f84394e363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/6ceedf724260b805e041412b0c629f9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/6ceedf724260b805e041412b0c629f9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/6eb0d3ea67ad840b77a4ba220e143f3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/6eb0d3ea67ad840b77a4ba220e143f3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/688affdd20af72e3e17faf3e21700b75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/688affdd20af72e3e17faf3e21700b75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3a7c416c7595e82a97dc3784551ecb7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3a7c416c7595e82a97dc3784551ecb7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/bc0c271578ae076d9adf1a8117ad52d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/bc0c271578ae076d9adf1a8117ad52d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3272a77194888b341e143d0a786c562e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3272a77194888b341e143d0a786c562e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/255049a0d71cd59a4fd64655007db69a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/255049a0d71cd59a4fd64655007db69a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/30e755123e812a15835bd1083fc067df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/30e755123e812a15835bd1083fc067df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/856cef3d1cd5cad3b1405872eb51e988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/856cef3d1cd5cad3b1405872eb51e988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/9e4fdaf900f64181a93d2dcb514de595/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/9e4fdaf900f64181a93d2dcb514de595/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/73f78230e5f224ea763b665bc9b550e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/73f78230e5f224ea763b665bc9b550e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3f2b73d4d538f66903b64ea55ac41b75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3f2b73d4d538f66903b64ea55ac41b75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/48a71d9deb345633826685ac20892847/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/48a71d9deb345633826685ac20892847/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/0ad0a4ffd42646480505957cf1dbf466/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/0ad0a4ffd42646480505957cf1dbf466/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/11d48aee646e0f26a550a7abd4959d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/11d48aee646e0f26a550a7abd4959d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/10eebaa4a3c09b6e59d02bc1e75f4af1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/10eebaa4a3c09b6e59d02bc1e75f4af1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/e7b4ca3a07c85291f845580c40342413/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/e7b4ca3a07c85291f845580c40342413/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/30c60e823f241bc7f9975dc8c465a287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/30c60e823f241bc7f9975dc8c465a287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/e4ed0558db1e397f1d318e799a68a16f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/e4ed0558db1e397f1d318e799a68a16f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/75c40cf7261faba722a92c395395a63f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/75c40cf7261faba722a92c395395a63f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/abab4f81e5de3da20436e767ab34d7a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/abab4f81e5de3da20436e767ab34d7a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3ce592402223bdcf1793647868b4412c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/3ce592402223bdcf1793647868b4412c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/899e15b80d751caab326fa258c579135/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/899e15b80d751caab326fa258c579135/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/622a51a5cf4160d07fc5b15504e24054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/622a51a5cf4160d07fc5b15504e24054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/66e3d23b59808d7807b505b54458886e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/66e3d23b59808d7807b505b54458886e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/8504516ea3ec761172c9a9fc3062ca39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/8504516ea3ec761172c9a9fc3062ca39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/44eee4ebea2b16b0098f273ed201f67e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/44eee4ebea2b16b0098f273ed201f67e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c36f9e43f8abc565da2ae6ca9dd7ed54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/c36f9e43f8abc565da2ae6ca9dd7ed54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/0334429cfe8e3e099de6e27368bc8079/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/0334429cfe8e3e099de6e27368bc8079/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderkentfield/catApi/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/b989d9535e6872c339edecdeff97906c/AndroidManifest.xml:9:13-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/alexanderkentfield/.gradle/caches/transforms-2/files-2.1/5fd522870269917f92edd256c44be8d2/AndroidManifest.xml:24:13-79
